@@ -11,4 +11,5 @@ body{
 
         .principal-botoes{
             display: flex;
+            align-items: center;
         }
