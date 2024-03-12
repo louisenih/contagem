@@ -8,15 +8,3 @@ body{
     background: rgb(2,0,36);
     background: linear-gradient(355deg, rgba(2,0,36,1) 0%, rgba(255,5,5,1) 100%);
     }
-
-    // <uniquifier>: Use a unique and descriptive class name
-
-.honk-<uniquifier> {
-  font-family: "Honk", system-ui;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "MORF" 15,
-    "SHLN" 50;
-}
