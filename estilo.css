@@ -9,12 +9,7 @@
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
-body{
-    height: 1000vh;
-    width: 1000vw;
-    background: rgb(2,0,36);
-    background: linear-gradient(355deg, rgba(2,0,36,1) 0%, rgba(255,5,5,1) 100%);
-}
+
 
 .conteudo-principal {
     display: flex;
@@ -32,23 +27,3 @@ body{
     font-size: 32px;
 }
 
-.titulo-principal span {
-    color: var(--verde);
-}
-
-
-.botao {
-    font-family: 'Chakra Petch', sans-serif;
-    background-color: var(--botao-inativo);
-    color: var(--branco);
-    display: flex;
-    justify-content: center;
-    padding: 1em;
-    font-size: 18px;
-    align-items: center;
-    width: 100%;
-    border-bottom: 4px solid var(--botao-ativo);
-    border-left: 2px solid var(--botao-ativo);
-    border-right: 2px solid var(--botao-ativo);
-    border-top: none;
-}
