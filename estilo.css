@@ -23,6 +23,11 @@ body{
     margin: 0 auto;
 }
 
+
+.conteudo-principal span{
+    color: var(--verde);
+}
+
 .titulo-principal {
     text-align: left;
     width: 100%;
