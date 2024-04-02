@@ -44,7 +44,6 @@ body{
 }
 
 .botao {
-
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
