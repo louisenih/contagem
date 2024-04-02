@@ -59,5 +59,10 @@ body{
     border-top: none;
 }
 .botoes{
-    display: flex;
+    display: block;
+}
+@media screen and (min-idth:768px){
+    .botoes{
+        display: flex;
+    }
 }
