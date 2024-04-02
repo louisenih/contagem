@@ -27,6 +27,11 @@ body{
 
 .conteudo-principal span{
     color: var(--vermelho);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200;
 }
 
 .titulo-principal {
